@@ -1,0 +1,48 @@
+header{
+    height: 20vh;
+}
+
+.MenuRedesBuscador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.RedesSociales img{
+    height: 25px;
+    margin: 5px;
+}
+
+.Buscador{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+input{
+    height: 27px;
+}
+
+input::placeholder{
+    padding-left: 10px;
+}
+
+.MenuPrincipal {
+  padding: 40px;
+}
+
+.Menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid rgb(59, 59, 59);
+  padding: 15px;
+  gap: 90px;
+}
+
+.Menu img {
+  width: 70px;
+}
+
+
+
